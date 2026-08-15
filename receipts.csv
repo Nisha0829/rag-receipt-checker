@@ -1,1 +1,5 @@
-
+receipt_id,customer,amount,date,status,description
+R1001,Nisha Sharma,125.50,2026-08-01,saved,Consent receipt saved successfully in database
+R1002,John Smith,89.99,2026-08-05,saved,Marketing consent receipt stored after user preference update
+R1003,Amit Patel,42.75,2026-08-10,failed,Receipt failed due to database timeout
+R1004,Sarah Lee,210.00,2026-08-12,saved,Consent receipt saved after preference center update
